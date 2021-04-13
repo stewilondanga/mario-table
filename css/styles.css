@@ -1,3 +1,7 @@
+body {
+  background: #69f;
+}
+
 .share__icon {
   width: 32px;
   height: 32px;
@@ -100,9 +104,6 @@
 }
 
 /*
-body {
-  background: #69f;
-}
 table {
   margin: 0 auto;
 }
